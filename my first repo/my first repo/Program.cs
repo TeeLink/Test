@@ -11,6 +11,8 @@ namespace my_first_repo
         static void Main(string[] args)
         {
             int num = (6);
+            DateTime now = DateTime.Now;
+
 
         }
     }
